@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build / artifacts
+dist/
+build/
+out/
+cache/
+artifacts/
+coverage/
+.turbo/
+.next/
+
+# Solidity / Foundry / Hardhat (when added)
+broadcast/
+**/typechain-types/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*.log
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

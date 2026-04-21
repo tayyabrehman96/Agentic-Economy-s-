@@ -1,0 +1,18 @@
+{
+  "name": "agentic-economy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI agent marketplace and on-chain coordination on Ethereum — discovery, identity, payments, reputation.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tayyabrehman96/Agentic-Economy-s-.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ai-agents",
+    "marketplace",
+    "web3",
+    "esp"
+  ]
+}

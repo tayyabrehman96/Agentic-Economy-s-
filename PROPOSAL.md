@@ -67,7 +67,7 @@ Agentic Economy will deliver:
 - API/SDK for agent builders to register services and receive payments programmatically.
 - Security posture: audits on critical path before mainnet-scale deployment; testnet-first releases.
 
-*Detailed architecture will be documented in-repo as milestones complete.*
+*Detailed architecture is documented in [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md), including a **diagram** ([`docs/diagrams/architecture.svg`](docs/diagrams/architecture.svg)) and a Mermaid view for GitHub.*
 
 ---
 
